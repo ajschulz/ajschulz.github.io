@@ -1,9 +1,9 @@
 ---
 ---
 
-# ajschulz's Website
+# NSF PGRP Postdoctoral Fellow at the University of Minnesota
 
-An engaging 1-3 sentence description of your lab.
+
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I have collaborated with and written first-author manuscripts on a variety of topics covering evolutionary genetics, machine learning, and quantitative genetics.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See my publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,20 +26,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cropsTalk.jpg"
   link="research"
-  title="Our Research"
+  title="My Publications"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My current projects investigate plant competition dynamics, the genetics of perenniality, and how to leverage evolution and machine learning to evaluate gene model annotations. 
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse my projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,33 +49,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IMG_6533_med.jpg"
   link="projects"
-  title="Our Projects"
+  title="My Current Projects"
   flip=true
   style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
   text=text
 %}
