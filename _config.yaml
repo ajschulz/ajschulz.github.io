@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: ajschulz
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Dr. Aimee Schulz
+subtitle: NSF Postdoctoral Fellow
+description: Researching the genomics of grass-legume interactions at the University of Minnesota
+header: images/FieldSunny.png
+footer: images/FieldSunny.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@ajschulz.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: ajschulz
-  twitter: ajschulz
-  youtube: ajschulz
+  email: ajs692@cornell.edu
+  orcid: 0000-0002-3709-9898
+  google-scholar: v2u2ywYAAAAJ
+  twitter: aimeejschulz
 
 ### jekyll settings
 
