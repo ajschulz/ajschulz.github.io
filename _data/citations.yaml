@@ -1,8 +1,181 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.02.26.708322
+  title: Inter-variety competition dynamics in US inbred and hybrid maize
+  authors:
+  - Aimee J Schulz
+  - Martin O Bohn
+  - Peter Bradbury
+  - Dayane Cristina Lima
+  - Natalia De Leon
+  - Sherry Flint-Garcia
+  - James B Holland
+  - Nicholas Lepak
+  - Aaron J Lorenz
+  - M Cinta Romay
+  - Candice N Hirsch
+  - Edward S Buckler
+  - Kelly R Robbins
+  publisher: openRxiv
+  date: '2026-02-28'
+  link: https://doi.org/hbq4sf
+  orcid: 0000-0002-3709-9898
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msaf324
+  title: "Widespread turnover of a conserved cis\n                    <i>-</i>\n \
+    \                   regulatory code across 589 grass species"
+  authors:
+  - Charles O Hale
+  - Sheng-Kai Hsu
+  - Jingjing Zhai
+  - Aimee Schulz
+  - Taylor Aubuchon-Elder
+  - Germano Costa-Neto
+  - Allen Gelfond
+  - Mohamed Z El-Walid
+  - Matthew Hufford
+  - Elizabeth A Kellogg
+  - Thuy La
+  - Alexandre P Marand
+  - Arun S Seetharam
+  - Armin Scheben
+  - Michelle C Stitzer
+  - Travis Wrightsman
+  - Maria Cinta Romay
+  - Edward S Buckler
+  publisher: Molecular Biology and Evolution
+  date: '2025-12-10'
+  link: https://doi.org/hbmcw7
+  orcid: 0000-0002-3709-9898
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tpj.70483
+  title: "Fishing for a\n                    <scp>reelGene</scp>\n               \
+    \     : evaluating gene models with evolution and machine learning"
+  authors:
+  - Aimee J. Schulz
+  - Jingjing Zhai
+  - "Taylor AuBuchon\u2010Elder"
+  - Carson M. Andorf
+  - "Mohamed Z. El\u2010Walid"
+  - Taylor H. Ferebee
+  - Elizabeth H. Gilmore
+  - Matthew B. Hufford
+  - Lynn C. Johnson
+  - Elizabeth A. Kellogg
+  - Thuy La
+  - Evan Long
+  - Sarah J. McMorrow
+  - Zachary R. Miller
+  - John L. Portwood
+  - M. Cinta Romay
+  - Arun S. Seetharam
+  - Michelle C. Stitzer
+  - Margaret R. Woodhouse
+  - Travis Wrightsman
+  - Edward S. Buckler
+  - Brandon Monier
+  - "Sheng\u2010Kai Hsu"
+  publisher: The Plant Journal
+  date: '2025-09-01'
+  link: https://doi.org/g948vt
+  orcid: 0000-0002-3709-9898
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/plcell/koaf139
+  title: Designing a nitrogen-efficient cold-tolerant maize for modern agricultural
+    systems
+  authors:
+  - "Jonathan Odil\xF3n Ojeda-Rivera"
+  - Allison C Barnes
+  - Elizabeth A Ainsworth
+  - Ruthie Angelovici
+  - Bruno Basso
+  - Lara J Brindisi
+  - Matthew D Brooks
+  - Wolfgang Busch
+  - Gretta L Buttelmann
+  - Michael J Castellano
+  - Junping Chen
+  - Denise E Costich
+  - Natalia de Leon
+  - Bryan D Emmett
+  - David Ertl
+  - Sarah L Fitzsimmons
+  - Sherry A Flint-Garcia
+  - Michael A Gore
+  - Kaiyu Guan
+  - Charles O Hale
+  - Sam Herr
+  - Candice N Hirsch
+  - David H Holding
+  - James B Holland
+  - Sheng-Kai Hsu
+  - Jian Hua
+  - Matthew B Hufford
+  - Shawn M Kaeppler
+  - Emma N Leary
+  - Zong-Yan Liu
+  - Anthony A Mahama
+  - Tyler J McCubbin
+  - Carlos D Messina
+  - Todd P Michael
+  - Sara J Miller
+  - Seth C Murray
+  - Sakiko Okumoto
+  - Elad Oren
+  - Alexa N Park
+  - "Miguel A Pi\xF1eros"
+  - Nicholas Ace Pugh
+  - Victor Raboy
+  - "Rub\xE9n Rell\xE1n-\xC1lvarez"
+  - M Cinta Romay
+  - Travis Rooney
+  - Rebecca L Roston
+  - Ruairidh J H Sawers
+  - James C Schnable
+  - Aimee J Schulz
+  - M Paul Scott
+  - Nathan M Springer
+  - Jacob D Washburn
+  - Michelle A Zambrano
+  - Jingjing Zhai
+  - Jitao Zou
+  - Edward S Buckler
+  publisher: The Plant Cell
+  date: '2025-07-01'
+  link: https://doi.org/g939k4
+  orcid: 0000-0002-3709-9898
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/tpj.70319
+  title: Contrasting rhizosphere nitrogen dynamics in Andropogoneae grasses
+  authors:
+  - "Sheng\u2010Kai Hsu"
+  - Bryan D Emmett
+  - Alexandria Haafke
+  - "Germano Costa\u2010Neto"
+  - Aimee J Schulz
+  - Nicholas Lepak
+  - Thuy La
+  - "Taylor M AuBuchon\u2010Elder"
+  - Charles O Hale
+  - Sierra S Raglin
+  - "Jonathan O Ojeda\u2010Rivera"
+  - Angela D Kent
+  - Elizabeth A Kellogg
+  - M. Cinta Romay
+  - Edward S Buckler
+  publisher: The Plant Journal
+  date: '2025-07-01'
+  link: https://doi.org/g9sgzr
+  orcid: 0000-0002-3709-9898
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.04.23.650228
-  title: Extensive modulation of a conserved<i>cis</i>-regulatory code across 589
-    grass species
+  title: "Extensive modulation of a conserved\n                  <i>cis</i>\n    \
+    \              -regulatory code across 589 grass species"
   authors:
   - Charles O. Hale
   - Sheng-Kai Hsu
@@ -22,7 +195,7 @@
   - Travis Wrightsman
   - M. Cinta Romay
   - Edward S. Buckler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-04-26'
   link: https://doi.org/g9rdhb
   orcid: 0000-0002-3709-9898
@@ -74,7 +247,7 @@
   - Elizabeth A. Kellogg
   - Edward S. Buckler
   - Matthew B. Hufford
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-01-24'
   link: https://doi.org/g826ms
   orcid: 0000-0002-3709-9898
@@ -99,7 +272,7 @@
   - Elizabeth A Kellogg
   - M Cinta Romay
   - Edward S Buckler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-06-03'
   link: https://doi.org/gtxzwb
   orcid: 0000-0002-3709-9898
@@ -107,7 +280,8 @@
   file: orcid.yaml
 - id: doi:10.1101/2024.02.14.580345
   title: "Muller\u2019s Ratchet in Action: The Erosion of Sexual Reproduction Genes\
-    \ in Domesticated Cassava (<i>Manihot esculenta</i>)"
+    \ in Domesticated Cassava (\n                  <i>Manihot esculenta</i>\n    \
+    \              )"
   authors:
   - Evan M Long
   - Michelle Stitzer
@@ -116,7 +290,7 @@
   - M. Cinta Romay
   - Kelly R Robbins
   - Edward S. Buckler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-02-15'
   link: https://doi.org/gtrg4s
   orcid: 0000-0002-3709-9898
@@ -133,7 +307,7 @@
   - David E Hufnagel
   - Paul Gepts
   - Matthew B Hufford
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-11-21'
   link: https://doi.org/gtrg4t
   orcid: 0000-0002-3709-9898
@@ -165,7 +339,7 @@
   - Edward S Buckler
   - Brandon Monier
   - Sheng-Kai Hsu
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-09-21'
   link: https://doi.org/gtrg4v
   orcid: 0000-0002-3709-9898
