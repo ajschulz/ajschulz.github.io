@@ -1,5 +1,52 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.06.23.734061
+  title: Promoter Structural Variants are Drivers of Genome-Wide Differential Expression
+    in Maize
+  authors:
+  - Manisha Munasinghe
+  - Andrew Read
+  - Aimee Schulz
+  - Yaniv Brandvain
+  - Nathan Springer
+  - Candice Hirsch
+  publisher: openRxiv
+  date: '2026-06-28'
+  link: https://doi.org/hb8xx5
+  orcid: 0000-0002-3709-9898
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.06.01.729361
+  title: Convergent genome- and gene-level constraints shape repeated environmental
+    adaptation in grasses
+  authors:
+  - Sheng-Kai Hsu
+  - Aimee J Schulz
+  - Charles O Hale
+  - Germano Costa-Neto
+  - Zachary R Miller
+  - Michelle C Stitzer
+  - Travis Wrightsman
+  - Jingjing Zhai
+  - Wei-Yun Lai
+  - Henry D Dawson
+  - Qifan Wang
+  - Taylor M AuBuchon-Elder
+  - Lara J Brindisi
+  - Elad Oren
+  - Yun Luo
+  - Beatrice A Konadu
+  - Jonathan O Ojeda-Rivera
+  - Matt Pennell
+  - Elizabeth A Kellogg
+  - M Cinta Romay
+  - Edward S Buckler
+  publisher: openRxiv
+  date: '2026-06-03'
+  link: https://doi.org/hb6vvr
+  orcid: 0000-0002-3709-9898
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.02.26.708322
   title: Inter-variety competition dynamics in US inbred and hybrid maize
   authors:
